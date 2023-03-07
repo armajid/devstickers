@@ -11,7 +11,7 @@ All the places where you can buy developer-related stickers for your laptop.
 - [Tux stickers - The Linux Foundation](https://linuxfoundation.store/collections/linux-foundation-branded-items)
 - [Wikipedia stickers - Wikipedia](https://store.wikimedia.org/collections/all-products)
 - [Apache stickers - Apache](https://www.redbubble.com/people/comdev/shop)
-- [Raspberry Pi sticker - PiHut](https://thepihut.com/collections/raspberry-pi-swag)
+- [Raspberry Pi stickers - PiHut](https://thepihut.com/collections/raspberry-pi-swag)
 
 ## Contributing
 
